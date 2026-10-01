@@ -1,2 +1,0 @@
-# whites-dashboard
-Whites Dashboard
